@@ -3,4 +3,4 @@ We've been tasked with creating a proof-of-concept in React– an app that allow
 
 # Starter Using React + Vite
 
-The starter for this was created with Vite to scaffold a new React App. [Getting Started with React] (https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) will walk you through creating a basic React Toolchain on your local computer and and provide some understanding with working in React. This simple starter will be used to begin the TODO List. 
+The starter for this was created with Vite to scaffold a new React App. [Getting Started with React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) will walk you through creating a basic React Toolchain on your local computer and and provide some understanding with working in React. This simple starter will be used to begin the TODO List. 
